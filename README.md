@@ -438,9 +438,8 @@ Built as a typing-practice and skill-development web application.
 
 ## 📄 License
 
-Add your preferred license here before publishing the repository
-publicly. For example, you can use the MIT License if it matches your
-intended usage and distribution terms.
+It is created for **educational purposes only**. Feel free to use the code to learn. A credit or a star ⭐ to this repository would be highly appreciated!
+
 
 ------------------------------------------------------------------------
 
